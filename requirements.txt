@@ -1,0 +1,6 @@
+langchain
+flask
+langchain_openai
+flask
+flask_cors
+pandas
